@@ -11,7 +11,7 @@ The code implements all core mechanisms of ELDABC and validates its performance 
 - No additional toolboxes required
 - IEEE CEC2013 benchmark function files (included in this repo)
 
-## Quick Start (For Reviewers)
+## Quick Start
 ### Step 1: Clone the Repository
 Download all files to your local computer.
 
